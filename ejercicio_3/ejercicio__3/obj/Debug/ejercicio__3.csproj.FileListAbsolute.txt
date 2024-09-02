@@ -1,0 +1,10 @@
+F:\CANO\PROYECTO\Trabajos de clases\TP9\ejercicio__3\ejercicio__3\bin\Debug\ejercicio__3.exe.config
+F:\CANO\PROYECTO\Trabajos de clases\TP9\ejercicio__3\ejercicio__3\bin\Debug\ejercicio__3.exe
+F:\CANO\PROYECTO\Trabajos de clases\TP9\ejercicio__3\ejercicio__3\bin\Debug\ejercicio__3.pdb
+F:\CANO\PROYECTO\Trabajos de clases\TP9\ejercicio__3\ejercicio__3\obj\Debug\ejercicio__3.csprojAssemblyReference.cache
+F:\CANO\PROYECTO\Trabajos de clases\TP9\ejercicio__3\ejercicio__3\obj\Debug\ejercicio__3.Form1.resources
+F:\CANO\PROYECTO\Trabajos de clases\TP9\ejercicio__3\ejercicio__3\obj\Debug\ejercicio__3.Properties.Resources.resources
+F:\CANO\PROYECTO\Trabajos de clases\TP9\ejercicio__3\ejercicio__3\obj\Debug\ejercicio__3.csproj.GenerateResource.cache
+F:\CANO\PROYECTO\Trabajos de clases\TP9\ejercicio__3\ejercicio__3\obj\Debug\ejercicio__3.csproj.CoreCompileInputs.cache
+F:\CANO\PROYECTO\Trabajos de clases\TP9\ejercicio__3\ejercicio__3\obj\Debug\ejercicio__3.exe
+F:\CANO\PROYECTO\Trabajos de clases\TP9\ejercicio__3\ejercicio__3\obj\Debug\ejercicio__3.pdb

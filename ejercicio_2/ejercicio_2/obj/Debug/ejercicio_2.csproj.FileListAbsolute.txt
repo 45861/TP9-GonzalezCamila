@@ -1,0 +1,10 @@
+F:\CANO\PROYECTO\Trabajos de clases\TP9\ejercicio_2\ejercicio_2\bin\Debug\ejercicio_2.exe.config
+F:\CANO\PROYECTO\Trabajos de clases\TP9\ejercicio_2\ejercicio_2\bin\Debug\ejercicio_2.exe
+F:\CANO\PROYECTO\Trabajos de clases\TP9\ejercicio_2\ejercicio_2\bin\Debug\ejercicio_2.pdb
+F:\CANO\PROYECTO\Trabajos de clases\TP9\ejercicio_2\ejercicio_2\obj\Debug\ejercicio_2.csprojAssemblyReference.cache
+F:\CANO\PROYECTO\Trabajos de clases\TP9\ejercicio_2\ejercicio_2\obj\Debug\ejercicio_2.Form1.resources
+F:\CANO\PROYECTO\Trabajos de clases\TP9\ejercicio_2\ejercicio_2\obj\Debug\ejercicio_2.Properties.Resources.resources
+F:\CANO\PROYECTO\Trabajos de clases\TP9\ejercicio_2\ejercicio_2\obj\Debug\ejercicio_2.csproj.GenerateResource.cache
+F:\CANO\PROYECTO\Trabajos de clases\TP9\ejercicio_2\ejercicio_2\obj\Debug\ejercicio_2.csproj.CoreCompileInputs.cache
+F:\CANO\PROYECTO\Trabajos de clases\TP9\ejercicio_2\ejercicio_2\obj\Debug\ejercicio_2.exe
+F:\CANO\PROYECTO\Trabajos de clases\TP9\ejercicio_2\ejercicio_2\obj\Debug\ejercicio_2.pdb
